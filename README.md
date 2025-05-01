@@ -1,3 +1,4 @@
+# [TODO]: Clean notebooks
 # PHYS 1600 Final Project
 This project extends the Ising model to general, undirected graphs. We apply the same heat-bath dynamics to simulate spin-spin interactions. The graphs are generated randomly, with each simulation focusing on a different graph-theoretic quantifier related to the connectivity of the graph. 
 
